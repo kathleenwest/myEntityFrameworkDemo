@@ -1,0 +1,22 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\myEntityFrameworkDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\myEntityFrameworkDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\myEntityFrameworkDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.csprojResolveAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 4\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\myEntityFrameworkDemo.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\myEntityFrameworkDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\myEntityFrameworkDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myEntityFrameworkDemo\myEntityFrameworkDemo\obj\Debug\myEntityFrameworkDemo.pdb
